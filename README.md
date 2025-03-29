@@ -13,7 +13,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lewiswigmore/tweeper-azure.git
+   git clone https://github.com/0xlews/tweeper-azure.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
