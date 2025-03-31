@@ -11,7 +11,7 @@
 
 ## Setup
 
-1. **Clone the Repository**:
+1. **Clone the Repository**
 2. **Navigate to the Project Directory**:
    ```bash
    cd tweeper-azure
