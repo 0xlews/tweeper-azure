@@ -12,9 +12,6 @@
 ## Setup
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/0xlews/tweeper-azure.git
-   ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd tweeper-azure
